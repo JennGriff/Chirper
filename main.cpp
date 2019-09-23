@@ -15,7 +15,7 @@ int main()
 
     cout<<"Please enter your Chirp:"<<endl;
     getline(cin,chirp);
-    cout<<"PLease enter your Burp"<<endl;
+    cout<<"Please enter your Burp"<<endl;
     getline(cin, burp);
 
     if( chirp.length() > 100 )
